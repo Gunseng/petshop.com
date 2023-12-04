@@ -1,0 +1,33 @@
+ul {margin: -10px;
+    padding: 0px;
+    background-color: rgb(55, 55, 55);
+    list-style-type: none;
+    overflow: hidden;
+    }
+li{
+    float: left;
+    padding: 14px 25px;
+    margin-top: 10px;
+}
+a{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+li:hover{
+        background-color: #5f6066; 
+}
+* {box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0}
+.mySlides {display: none}
+img {vertical-align: middle;}
+
+.dimg{
+    position: relative;
+    margin-top: 30px;
+    margin-left:400px;
+}
+.dip{
+    position:absolute;
+    margin-top: 50px;
+}
